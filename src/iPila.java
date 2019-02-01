@@ -1,6 +1,7 @@
 //AndresQuinto-18288
 public interface iPila<E>
 {
+    //Atributos de la pila encontrados en canvas que utilizaremos
     public void push(E item);
     // pre:
     // post: item is added to stack
